@@ -383,6 +383,7 @@ FodyWeavers.xsd
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+.vscode/
 
 # Local History for Visual Studio Code
 .history/
@@ -405,3 +406,6 @@ FodyWeavers.xsd
 
 # ignore Advent of Code data files (per website)
 **/input*.txt
+
+# ignore these directories
+notes/
