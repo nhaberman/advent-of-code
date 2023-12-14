@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayNine.Core", "DayNine.Core\DayNine.Core.csproj", "{B18DEBF3-2AA1-4C10-9181-2DCE17374A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayNine.PartOne", "DayNine.PartOne\DayNine.PartOne.csproj", "{75A42FA8-AA0E-4DA5-8F8A-C9FA6303994E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayNine.PartTwo", "DayNine.PartTwo\DayNine.PartTwo.csproj", "{DC6C75F1-CAA7-44D6-86DE-3E2E0641B590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18DEBF3-2AA1-4C10-9181-2DCE17374A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18DEBF3-2AA1-4C10-9181-2DCE17374A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18DEBF3-2AA1-4C10-9181-2DCE17374A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18DEBF3-2AA1-4C10-9181-2DCE17374A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A42FA8-AA0E-4DA5-8F8A-C9FA6303994E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A42FA8-AA0E-4DA5-8F8A-C9FA6303994E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A42FA8-AA0E-4DA5-8F8A-C9FA6303994E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A42FA8-AA0E-4DA5-8F8A-C9FA6303994E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6C75F1-CAA7-44D6-86DE-3E2E0641B590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6C75F1-CAA7-44D6-86DE-3E2E0641B590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6C75F1-CAA7-44D6-86DE-3E2E0641B590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6C75F1-CAA7-44D6-86DE-3E2E0641B590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
